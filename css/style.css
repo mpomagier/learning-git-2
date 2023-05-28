@@ -1,0 +1,24 @@
+body {
+  color: #aeaeae;
+  background-color: #333333;
+  margin: 30px 60px;
+}
+
+.container {
+  font-size: 15px;
+}
+
+.title {
+  border-bottom: #ea6a64 solid 3px;
+  display: inline-block;
+}
+
+h1 {
+  border-bottom: #ea6a64 solid 3px;
+  display: inline-block;
+}
+
+.pre-chorus, .chorus {
+  font-style: italic;
+  padding: 15px;
+}
