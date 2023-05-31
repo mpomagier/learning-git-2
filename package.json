@@ -1,0 +1,20 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate-html": "html-validate \"**/*.html\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "html-validate": "^7.18.0",
+    "html-validate-angular": "^4.0.1",
+    "html-validate-markdown": "^3.0.0",
+    "html-validate-vue": "^5.1.4"
+  }
+}
