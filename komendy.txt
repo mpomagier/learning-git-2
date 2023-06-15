@@ -1,1 +1,2 @@
-html-validate "**/*.html"
+node_modules/.bin/html-validate *.html
+npx html-validate *.html
